@@ -1,0 +1,21 @@
+PIG GAME FLOW CHART
+
+1) Defined the varibales for score, roundScore, activePlayer and array for it
+	- used math.random () to get 0 & 1 .But to get 1 & 6.Multiply by 6.To get rid of decimal.Math.foor will be used to do .We will get 0 to 5.We will add 1
+
+2) adding function like callback and anonymous and eventlistener to perform following tasks
+- display the result
+-update the round score
+
+3) usage of IF and ELSE (type cohersion)
+-add roundScore to the dice
+- usage of ternary operator
+
+4)to add event lsitenr.Add current scor eto global score & update the UI
+Usage of class  list
+
+5) game intilization
+- adding functions
+
+6)state variables(tell us the condition of system or state of something..is game on or not)
+-
